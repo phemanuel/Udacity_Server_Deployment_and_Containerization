@@ -1,0 +1,7 @@
+NAME : simple-jwt-api
+TYPE : LoadBalancer
+CLUSTER-IP : 10.100.65.38
+EXTERNAL-IP : a67665f23a2a342cf96a56c6c532bdb7-1952435095.us-east-2.elb.amazonaws.com
+PORT(S) : 80:32187/TCP
+AGE: 5m36s
+SELECTOR : app=simple-jwt-api 
